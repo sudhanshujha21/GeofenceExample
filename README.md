@@ -17,3 +17,4 @@ Geofence on Android:
  
 On Android, there are different ways to deal with geofences. One can use Google’s GeofencingApi. This API is component of Google’s Location Apis which has GeofencingRequest, GeofenceApi, Geofence, and GeofencingEvents.. The GeofencingApi class is the entry point for all interactions with Google's geofencing API. The GeofencingApi can be used to add geofence by calling addGeofence() method and remove the geofences by calling removeGeofences() method. Now to check whether a person is within a geofence range we can make use of different   algorithms such as Ray-casting,   Winding Number ,TWC   (Triangle   Weight   Characterization)   and Circular Geofencing using Haversine  Formula.
  
+![alt text]https://github.com/sudhanshujha21/GeofenceExample/edit/master/README.md
