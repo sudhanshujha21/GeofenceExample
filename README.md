@@ -19,6 +19,7 @@ On Android, there are different ways to deal with geofences. One can use Googleâ
 
 Some important link on this concept:
 
+
 1.https://developer.android.com/training/location/geofencing#java 
 
 2.https://developers.google.com/android/reference/com/google/android/gms/maps/model/Circle 
@@ -55,7 +56,7 @@ Some important link on this concept:
 
 18.https://github.com/gusterwoei/Android-Geofence-Example
 
-19. github.com/googlesamples/android-Geofencing/
+19.github.com/googlesamples/android-Geofencing/
 
 20.http://www.zoftino.com/android-location-proximity-alert-using-google-maps-geofencing-example
 
@@ -80,36 +81,39 @@ Some important link on this concept:
 
 31. https://developers.google.com/maps/documentation/android-sdk/styling
 
+
+
 Some improtant link for push notification:
+
 
 
 1.https://developer.android.com/training/notify-user/build-notification#java
 
 2.https://developer.android.com/training/notify-user/build-notification
 
-3. https://pulsate.readme.io/v6.0/docs/adding-polgonal-geofences
+3.https://pulsate.readme.io/v6.0/docs/adding-polgonal-geofences
 
-4. http://stefanbangels.blogspot.com/2013/10/geo-fencing-sample-code.html
+4.http://stefanbangels.blogspot.com/2013/10/geo-fencing-sample-code.html
 
-5. http://alienryderflex.com/polygon/
+5 http://alienryderflex.com/polygon/
 
-6. http://vinsol.com/blog/2016/08/04/ray-casting-algorithm/
+6.http://vinsol.com/blog/2016/08/04/ray-casting-algorithm/
 
-7. https://gis.stackexchange.com/questions/240297/looking-for-a-us-state-file-for-geofences-with-as-few-geofences-per-state-as-pos
+7.https://gis.stackexchange.com/questions/240297/looking-for-a-us-state-file-for-geofences-with-as-few-geofences-per-state-as-pos
 
-8. https://www.journaldev.com/15468/android-notification-styling
+8.https://www.journaldev.com/15468/android-notification-styling
 
-9. https://www.intertech.com/Blog/android-nougat-development-tutorial-part-2-nougat-bundled-notifications/
+9.https://www.intertech.com/Blog/android-nougat-development-tutorial-part-2-nougat-bundled-notifications/
 
-10. https://www.techotopia.com/index.php/An_Android_7_Notifications_Tutorial
+10.https://www.techotopia.com/index.php/An_Android_7_Notifications_Tutorial
 
-11.  https://stackoverflow.com/questions/33209501/what-is-the-difference-between-v4-app-notificationcompat-and-v7-app-notification/33209603
+11.https://stackoverflow.com/questions/33209501/what-is-the-difference-between-v4-app-notificationcompat-and-v7-app-notification/33209603
 
 12.https://developer.android.com/reference/android/app/Notification.Builder
 
 13.https://developer.android.com/reference/android/support/v4/app/NotificationCompat.Builder
 
-14. https://www.journaldev.com/10463/android-notification-pendingintent
+14.https://www.journaldev.com/10463/android-notification-pendingintent
 
 
 
