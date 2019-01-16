@@ -79,7 +79,7 @@ Some important link on this concept:
 
 30.https://www.cs.dartmouth.edu/~campbell/cs65/lecture17/lecture17.html
 
-31. https://developers.google.com/maps/documentation/android-sdk/styling
+31.https://developers.google.com/maps/documentation/android-sdk/styling
 
 
 
